@@ -50,10 +50,9 @@
 
         <div class="social_media">
           <ul>
-            <a href="#"><i class="fa-regular fa-envelope"></i></a>
-            <a href="#"><i class="fa-brands fa-instagram"></i></i></a>
-            <a href="#"><i class="fa-brands fa-github"></i></a>
-
+            <a href="https://mail.google.com/mail/u/0/#inbox"><i class="fa-regular fa-envelope"></i></a>
+            <a href="https://www.instagram.com/meghaa.53/?hl=en"><i class="fa-brands fa-instagram"></i></a>
+            <a href="https://github.com/ms9384"><i class="fa-brands fa-github"></i></a>
           </ul>
         </div>
       </div>
